@@ -15,9 +15,12 @@ From this starting point, the task was to add an additional layer (I used the da
 ## Results
 Below, are two images demonstrating some of the varying options one can toggle when utilizing the map.
 
-![earthquakes_tect](https://user-images.githubusercontent.com/92493572/151245048-d89cce35-c1cb-4584-b509-86747bf8e8d7.png)
+![eq_street](https://user-images.githubusercontent.com/92493572/151247884-bc0cad43-f436-4ba4-ba93-b31e4c131cc4.png)
 
-![earthquakes_maj_dark](https://user-images.githubusercontent.com/92493572/151245059-f4ee050a-5d7f-4cd6-b87b-c0cd1d57fac7.png)
+![eq_sat_tect](https://user-images.githubusercontent.com/92493572/151247904-55127df9-e69d-4c4f-b93c-4f0c5af1f7a9.png)
+
+![majEq_dark_tect](https://user-images.githubusercontent.com/92493572/151247910-4e18f756-ae64-464a-b852-0d10fc9e456c.png)
+
 
 ## Discussion
 This map could benefit from additional modification such as a legend to hold major earthquakes magnitudes, which are the 3 colors: pink, magenta, and purple. If the legend was designed to change based upon the layers selected, it would be interesting to see this map used for other natural events, such as tornadoes, hurricanes, volcanic eruptions, blizzards, etc. On a final, less intensive note, when the markers are selected, they should also provide the date and time at which the earthquake was recorded.
